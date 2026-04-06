@@ -1,1 +1,1 @@
-# Find-s-algoithm
+# Find-s-algorithm
